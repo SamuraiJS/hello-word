@@ -1,7 +1,7 @@
 # hello-word
 Repositorio de prueba
 
-# h1 Mini introducción
+# Mini introducción
 
 - Me llamo Máximo Suleiman
 - Tengo 17 años
